@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Todo": {
+      "commandName": "Project",
+      "commandLineArgs": "-h"
+    }
+  }
+}
